@@ -1,0 +1,49 @@
+PS C:\Users\harir\OneDrive\Desktop\Language-modeling> & C:/Users/harir/Documents/python.exe c:/Users/harir/OneDrive/Desktop/Language-modeling/app.py
+🎤 Speak now...
+🔍 Transcribing...
+🔤 Raw Transcript: she don't like dirty talks from him
+✅ Corrected Transcript: She doesn't like dirty talks from him.
+✅ Saved corrected text to: C:\Users\harir/Documents\corrected_transcription_20250509_055443.txt
+
+⏳ Starting 10-second countdown...
+⏳ Listening will restart in 1 secondss
+
+🎤 Speak now...
+
+⏰ No speech detected for 10 seconds. Listening timed out.
+🎤 Speak now...
+🔍 Transcribing...
+🔤 Raw Transcript: you can place the guitar really well
+✅ Corrected Transcript: You can place the guitar really well.
+✅ Saved corrected text to: C:\Users\harir/Documents\corrected_transcription_20250509_055513.txt
+
+⏳ Starting 10-second countdown...
+⏳ Listening will restart in 1 secondss
+
+🎤 Speak now...
+🔍 Transcribing...
+🔤 Raw Transcript: me and my brother was watching a
+✅ Corrected Transcript: Me and my brother were watching a movie.
+✅ Saved corrected text to: C:\Users\harir/Documents\corrected_transcription_20250509_055531.txt
+
+⏳ Starting 10-second countdown...
+⏳ Listening will restart in 1 secondss
+
+🎤 Speak now...
+🔍 Transcribing...
+🔤 Raw Transcript: shut up bro
+✅ Corrected Transcript: Shut up bro.
+✅ Saved corrected text to: C:\Users\harir/Documents\corrected_transcription_20250509_055546.txt
+
+⏳ Starting 10-second countdown...
+⏳ Listening will restart in 1 secondss
+
+❌ 'Shut up bro' detected. Stopping the process.
+PS C:\Users\harir\OneDrive\Desktop\Language-modeling> py app.py
+PS C:\Users\harir\OneDrive\Desktop\Language-modeling> py app.py
+PS C:\Users\harir\OneDrive\Desktop\Language-modeling> py app.py
+🎤 Speak now...
+🔍 Transcribing...
+🔤 Raw Transcript: there is so many reasons to learn coding
+✅ Corrected Transcript: There are so many reasons to learn coding.
+✅ Saved corrected text to: C:\Users\harir/Documents\corrected_transcription_20250509_055627.txt
